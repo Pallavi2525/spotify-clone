@@ -18,7 +18,6 @@ const scopes = [
 
 //getting access token from the url after successful login
 export const getTokenFromUrl = () => {
-    debugger
     return window.location.hash
         .substring(1)
         .split("&")
