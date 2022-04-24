@@ -1,2 +1,2 @@
 # spotify-clone
-A clone of Spotify created using React.js
+A clone of Spotify created using React.js and context API
